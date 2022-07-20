@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>pass_generation</name>
+    </assembly>
+    <members>
+        <member name="M:pass_generation.Controllers.PassGenerationController.Get(System.Int32,System.Int32)">
+            <summary>
+            Позволяет получить по заданным параметрам (длина пароля и длина хеша)
+            выходные данные: пароль, соль и хеш
+            </summary>
+            <remarks>
+            Длина пароля 6-8 символов, кратная 2
+            Длина соли не может быть меньше одного символа
+            </remarks>
+            <param name="pass"></param>
+            <param name="salt"></param>
+            <returns></returns>
+            <response code="400">Неверный синтаксис запроса</response>    
+        </member>
+        <member name="M:pass_generation.GetPasswordData.Get(System.Int32,System.Int32,pass_generation.PasswordData)">
+            <summary>
+            По очереди вызывает все необходимые методы: приведение длины пароля к стандартной, 
+            приведение длины соля к стандартной, генерация пароля, генерация соли, хеширование
+            </summary>
+            <param name="pass_length"></param>
+            <param name="salt_length"></param>
+            <param name="passData"></param>
+        </member>
+        <member name="M:pass_generation.GetPasswordData.GetHash(pass_generation.PasswordData)">
+            <summary>
+            Хеширует пароль и соль
+            </summary>
+            <param name="passData"></param>
+        </member>
+        <member name="T:pass_generation.PasswordData">
+            <summary>
+            Позволяет хранить все данные, относящиеся к паролю, в объекте класса
+            </summary>
+        </member>
+    </members>
+</doc>
