@@ -1,0 +1,93 @@
+C:\Users\ACER\source\repos\pass_generation\pass_generation\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ACER\source\repos\pass_generation\pass_generation\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ACER\source\repos\pass_generation\pass_generation\bin\Debug\netcoreapp3.1\pass_generation.exe
+C:\Users\ACER\source\repos\pass_generation\pass_generation\bin\Debug\netcoreapp3.1\pass_generation.deps.json
+C:\Users\ACER\source\repos\pass_generation\pass_generation\bin\Debug\netcoreapp3.1\pass_generation.runtimeconfig.json
+C:\Users\ACER\source\repos\pass_generation\pass_generation\bin\Debug\netcoreapp3.1\pass_generation.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\pass_generation\pass_generation\bin\Debug\netcoreapp3.1\pass_generation.dll
+C:\Users\ACER\source\repos\pass_generation\pass_generation\bin\Debug\netcoreapp3.1\pass_generation.pdb
+C:\Users\ACER\source\repos\pass_generation\pass_generation\obj\Debug\netcoreapp3.1\pass_generation.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\pass_generation\pass_generation\obj\Debug\netcoreapp3.1\pass_generation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\pass_generation\pass_generation\obj\Debug\netcoreapp3.1\pass_generation.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\pass_generation\pass_generation\obj\Debug\netcoreapp3.1\pass_generation.AssemblyInfo.cs
+C:\Users\ACER\source\repos\pass_generation\pass_generation\obj\Debug\netcoreapp3.1\pass_generation.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\pass_generation\pass_generation\obj\Debug\netcoreapp3.1\pass_generation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ACER\source\repos\pass_generation\pass_generation\obj\Debug\netcoreapp3.1\staticwebassets\pass_generation.StaticWebAssets.Manifest.cache
+C:\Users\ACER\source\repos\pass_generation\pass_generation\obj\Debug\netcoreapp3.1\staticwebassets\pass_generation.StaticWebAssets.xml
+C:\Users\ACER\source\repos\pass_generation\pass_generation\obj\Debug\netcoreapp3.1\scopedcss\bundle\pass_generation.styles.css
+C:\Users\ACER\source\repos\pass_generation\pass_generation\obj\Debug\netcoreapp3.1\pass_generation.RazorTargetAssemblyInfo.cache
+C:\Users\ACER\source\repos\pass_generation\pass_generation\obj\Debug\netcoreapp3.1\pass_generation.dll
+C:\Users\ACER\source\repos\pass_generation\pass_generation\obj\Debug\netcoreapp3.1\pass_generation.pdb
+C:\Users\ACER\source\repos\pass_generation\pass_generation\obj\Debug\netcoreapp3.1\pass_generation.genruntimeconfig.cache
+C:\Users\ACER\source\repos\pass_generation\pass_generation\bin\Debug\netcoreapp3.1\App.Metrics.dll
+C:\Users\ACER\source\repos\pass_generation\pass_generation\bin\Debug\netcoreapp3.1\App.Metrics.Abstractions.dll
+C:\Users\ACER\source\repos\pass_generation\pass_generation\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Abstractions.dll
+C:\Users\ACER\source\repos\pass_generation\pass_generation\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Core.dll
+C:\Users\ACER\source\repos\pass_generation\pass_generation\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Endpoints.dll
+C:\Users\ACER\source\repos\pass_generation\pass_generation\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Hosting.dll
+C:\Users\ACER\source\repos\pass_generation\pass_generation\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Tracking.dll
+C:\Users\ACER\source\repos\pass_generation\pass_generation\bin\Debug\netcoreapp3.1\App.Metrics.Concurrency.dll
+C:\Users\ACER\source\repos\pass_generation\pass_generation\bin\Debug\netcoreapp3.1\App.Metrics.Core.dll
+C:\Users\ACER\source\repos\pass_generation\pass_generation\bin\Debug\netcoreapp3.1\App.Metrics.Extensions.Configuration.dll
+C:\Users\ACER\source\repos\pass_generation\pass_generation\bin\Debug\netcoreapp3.1\App.Metrics.Extensions.DependencyInjection.dll
+C:\Users\ACER\source\repos\pass_generation\pass_generation\bin\Debug\netcoreapp3.1\App.Metrics.Formatters.Ascii.dll
+C:\Users\ACER\source\repos\pass_generation\pass_generation\bin\Debug\netcoreapp3.1\App.Metrics.Formatters.Json.dll
+C:\Users\ACER\source\repos\pass_generation\pass_generation\bin\Debug\netcoreapp3.1\App.Metrics.Formatters.Prometheus.dll
+C:\Users\ACER\source\repos\pass_generation\pass_generation\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ACER\source\repos\pass_generation\pass_generation\bin\Debug\netcoreapp3.1\protobuf-net.dll
+C:\Users\ACER\source\repos\pass_generation\pass_generation\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Users\ACER\source\repos\pass_generation\pass_generation\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\ACER\source\repos\pass_generation\pass_generation\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\ACER\source\repos\pass_generation\pass_generation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\ACER\source\repos\pass_generation\pass_generation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\ACER\source\repos\pass_generation\pass_generation\obj\Debug\netcoreapp3.1\pass_generation.csproj.CopyComplete
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\bin\Debug\netcoreapp3.1\pass_generation.exe
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\bin\Debug\netcoreapp3.1\pass_generation.deps.json
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\bin\Debug\netcoreapp3.1\pass_generation.runtimeconfig.json
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\bin\Debug\netcoreapp3.1\pass_generation.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\bin\Debug\netcoreapp3.1\pass_generation.dll
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\bin\Debug\netcoreapp3.1\pass_generation.pdb
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\bin\Debug\netcoreapp3.1\App.Metrics.dll
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\bin\Debug\netcoreapp3.1\App.Metrics.Abstractions.dll
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Abstractions.dll
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Core.dll
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Endpoints.dll
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Hosting.dll
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Tracking.dll
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\bin\Debug\netcoreapp3.1\App.Metrics.Concurrency.dll
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\bin\Debug\netcoreapp3.1\App.Metrics.Core.dll
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\bin\Debug\netcoreapp3.1\App.Metrics.Extensions.Configuration.dll
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\bin\Debug\netcoreapp3.1\App.Metrics.Extensions.DependencyInjection.dll
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\bin\Debug\netcoreapp3.1\App.Metrics.Formatters.Ascii.dll
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\bin\Debug\netcoreapp3.1\App.Metrics.Formatters.Json.dll
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\bin\Debug\netcoreapp3.1\App.Metrics.Formatters.Prometheus.dll
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\bin\Debug\netcoreapp3.1\protobuf-net.dll
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\obj\Debug\netcoreapp3.1\pass_generation.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\obj\Debug\netcoreapp3.1\pass_generation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\obj\Debug\netcoreapp3.1\pass_generation.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\obj\Debug\netcoreapp3.1\pass_generation.AssemblyInfo.cs
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\obj\Debug\netcoreapp3.1\pass_generation.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\obj\Debug\netcoreapp3.1\pass_generation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\obj\Debug\netcoreapp3.1\pass_generation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\obj\Debug\netcoreapp3.1\staticwebassets\pass_generation.StaticWebAssets.Manifest.cache
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\obj\Debug\netcoreapp3.1\staticwebassets\pass_generation.StaticWebAssets.xml
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\obj\Debug\netcoreapp3.1\scopedcss\bundle\pass_generation.styles.css
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\obj\Debug\netcoreapp3.1\pass_generation.RazorTargetAssemblyInfo.cache
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\obj\Debug\netcoreapp3.1\pass_generation.csproj.CopyComplete
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\obj\Debug\netcoreapp3.1\pass_generation.dll
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\obj\Debug\netcoreapp3.1\pass_generation.pdb
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\obj\Debug\netcoreapp3.1\pass_generation.genruntimeconfig.cache
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\bin\Debug\netcoreapp3.1\pass_generation.xml
+C:\Users\ACER\source\repos\pass_generation — копия\pass_generation\obj\Debug\netcoreapp3.1\pass_generation.xml
